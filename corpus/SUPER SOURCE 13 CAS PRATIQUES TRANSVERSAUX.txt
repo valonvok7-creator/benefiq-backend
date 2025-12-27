@@ -1,0 +1,174 @@
+﻿🟦 SUPER-SOURCE 13 CAS PRATIQUES TRANSVERSAUX
+Contient : 40 cas pratiques couvrant Vie + Non-Vie + Santé + LAA + LPP + AVS/AI + 3a/3b 
++ coordination
+Objectif : entraîner l’IA à raisonner comme un conseiller et détecter les besoins réels
+🟦 1. Cas Vie & Prévoyance (AVS/AI – LPP – OPP2 – OPP3)
+Cas 1 – Invalidité 55 % d’un salarié
+• AI : rente ¾
+• LPP : rente ¾
+• LAMal : soins
+• Besoin : perte de gain maladie (si avant invalidité)
+Cas 2 – Décès d’un parent avec 2 enfants
+• AVS : rente survivants
+• LPP : rente conjoint + orphelins
+• Vie : capital décès (si souscrit)
+• Besoin : protection familiale
+Cas 3 – Indépendant sans LPP
+• Pas de LPP
+• Pas de LAA obligatoire
+• Besoin : perte de gain, LAA volontaire, 3a indépendant
+Cas 4 – Retrait 3a pour achat immobilier
+• Autorisé (EPL)
+• Impact : rachat LPP limité tant que non remboursé
+Cas 5 – Départ définitif à l’étranger
+• 3a : retrait possible
+• LPP : dépend du pays (UE/AELE → restrictions)
+Cas 6 – Invalidité 30 %
+• AI : pas de rente
+• LPP : pas de rente
+• Besoin : perte de gain maladie
+Cas 7 – Lacune LPP
+• Solutions : rachat LPP ou 3a
+• Priorité : rachat (effet direct sur rente)
+Cas 8 – Retraite anticipée 5 ans avant
+• AVS : possible (réduction)
+• LPP : possible selon règlement
+• 3a : retrait autorisé
+Cas 9 – Divorce
+• Partage LPP
+• Partage 3a (selon régime matrimonial)
+Cas 10 – Décès d’un indépendant
+• AVS survivants
+• 3a/3b capital décès
+• Besoin : protection famille
+🟩 2. Cas Santé (LAMal – LCA)
+Cas 11 – Hospitalisation en semi-privée
+• LAMal : division commune
+• LCA : semi-privée (si souscrite)
+Cas 12 – Traitement dentaire
+• LAMal : non couvert
+• LCA : selon contrat
+Cas 13 – Médicament hors liste
+• LAMal : refus
+• LCA : parfois couvert
+Cas 14 – Réserve médicale
+• LCA : possible
+• LAMal : impossible
+Cas 15 – Maternité
+• LAMal : 100 % sans franchise
+• LCA : prestations supplémentaires
+Cas 16 – Accident d’un enfant
+• LAMal : couvre
+• LAA : pas applicable
+Cas 17 – Franchise élevée
+• Risque financier important
+• Besoin : franchise adaptée
+Cas 18 – Opération esthétique
+• LAMal : refus
+• LCA : parfois selon contrat
+Cas 19 – Séjour à l’étranger
+• LAMal : urgence uniquement
+• LCA : couverture étendue
+Cas 20 – Thérapie alternative
+• LAMal : limitée
+• LCA : selon contrat
+🟨 3. Cas Accidents (LAA – coordination)
+Cas 21 – Accident d’un salarié 40 %
+• LAA : soins + IJ
+• AI : invalidité si durable
+• LPP : rente selon taux AI
+Cas 22 – Accident d’un indépendant
+• LAA : pas obligatoire
+• LAMal : couvre
+• Besoin : LAA volontaire
+Cas 23 – Accident de sport extrême
+• LAA : peut réduire (entreprise téméraire)
+• LAMal : couvre si refus LAA
+Cas 24 – Accident sur trajet indirect
+• LAA : peut refuser
+• LAMal : couvre
+Cas 25 – Accident d’un retraité
+• LAA : pas applicable
+• LAMal : couvre
+Cas 26 – Accident d’un étudiant
+• LAMal : couvre
+• LAA : pas applicable
+Cas 27 – Accident d’un employé <8h/semaine
+• LAA : AP uniquement
+• ANP non couvert
+• LAMal : couvre ANP
+Cas 28 – Décès accidentel
+• LAA survivants
+• LPP survivants
+• Vie capital décès
+Cas 29 – Atteinte à l’intégrité
+• LAA : indemnité
+• LPP : rien
+Cas 30 – Accident à l’étranger
+• LAA : couvre
+• LAMal : urgence uniquement
+🟧 4. Cas Non-Vie (Ménage – RC – PJ – Véhicule)
+Cas 31 – Dégât d’eau par usure
+• Ménage : exclusion
+• Besoin : entretien
+Cas 32 – Vol de vélo non attaché
+• Ménage : selon contrat
+• RC : non concernée
+Cas 33 – Dommage causé au conjoint
+• RC : exclusion
+• Besoin : comprendre limites
+Cas 34 – Incendie dans l’appartement
+• Ménage : contenu
+• RC : dommages au bâtiment (si locataire)
+Cas 35 – Litige avec employeur
+• PJ privée : souvent exclu
+• PJ professionnelle : selon contrat
+Cas 36 – Accident de voiture
+• RC véhicule : dommages tiers
+• Casco : dommages au véhicule
+• LAA/LAMal : dommages corporels
+Cas 37 – Dommage à un objet prêté
+• RC : couvre
+• Ménage : non
+Cas 38 – Chien mord un voisin
+• RC privée : couvre
+• Exclusion : chien dangereux selon canton
+Cas 39 – Cyber-attaque d’une PME
+• Cyber assurance : couvre
+• RC entreprise : non
+Cas 40 – Bris de vitre
+• Ménage : selon contrat
+• RC : non
+🟫 5. Quiz (20 questions)
+1. Accident indépendant → LAMal
+2. Invalidité 30 % → pas de rente
+3. Semi-privée → LCA
+4. Dentiste → LCA
+5. Accident enfant → LAMal
+6. Accident sport extrême → réduction LAA
+7. Décès → AVS + LPP + Vie
+8. Accident trajet indirect → LAMal
+9. Accident <8h → ANP non couvert
+10. Retrait 3a voiture → refus
+11. Rachat = LPP
+12. RC couvre conjoint → faux
+13. Ménage couvre usure → faux
+14. LAMal couvre esthétique → faux
+15. LCA peut refuser → vrai
+16. LPP couvre tout salaire → faux
+17. Accident retraité → LAMal
+18. Accident étranger → LAA
+19. Litige employeur → PJ pro
+20. Cyber PME → cyber assurance
+🟦 6. Examen blanc (10 cas transversaux)
+1. Accident indépendant → LAMal
+2. Invalidité 55 % → AI + LPP
+3. Hospitalisation semi-privée → LCA
+4. Décès parent → AVS + LPP + Vie
+5. Retrait 3a EPL → autorisé
+6. Accident sport extrême → réduction LAA
+7. Dégât d’eau usure → ménage refuse
+8. RC conjoint → exclusion
+9. Litige employeur → PJ pro
+10. Accident <8h → ANP non couvert
+

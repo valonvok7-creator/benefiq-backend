@@ -1,0 +1,185 @@
+﻿🟦 MODULE NON-VIE — COUCHE 1
+Résumé fidèle (synthèse structurée)
+Le module Non-Vie couvre les assurances qui protègent les personnes et les biens 
+contre les dommages matériels, les responsabilités civiles et les événements imprévus. 
+Il inclut les assurances ménage, RC privée, RC immeuble, RC véhicule, casco, 
+assurance voyage et les assurances accidents (LAA et complémentaires).
+L’objectif est de comprendre les risques couverts, les exclusions, les prestations, les 
+limites, les obligations du client et les interactions entre les différentes assurances. Ce 
+module permet au conseiller d’identifier les besoins du client, d’expliquer les 
+couvertures adaptées et d’éviter les lacunes d’assurance.
+🟩 MODULE NON-VIE — COUCHE 2
+Explications pédagogiques (version vulgarisée)
+Le module Non-Vie traite de tout ce qui concerne les dommages aux biens et la 
+responsabilité envers les tiers.
+• L’assurance ménage couvre les objets personnels contre le vol, l’incendie, les dégâts 
+d’eau ou les événements naturels.
+• La responsabilité civile privée couvre les dommages que le client cause à d’autres 
+personnes ou à leurs biens.
+• La RC immeuble protège le propriétaire contre les dommages causés par son 
+bâtiment.
+• La casco couvre les dommages au véhicule du client (partielle ou complète).
+• L’assurance voyage couvre les imprévus comme l’annulation, l’assistance ou la perte 
+de bagages.
+• La LAA couvre les accidents professionnels et non professionnels pour les salariés.
+• Les assurances accidents complémentaires complètent les prestations de base.
+En résumé :
+👉 Le module Non-Vie enseigne comment protéger les biens, les personnes et les 
+finances du client contre les imprévus du quotidien.
+🟨 MODULE NON-VIE — COUCHE 3
+Schémas logiques (arborescences textuelles)
+1. Assurance ménage
+• Incendie
+• Dégâts d’eau
+• Vol
+• Événements naturels
+• Bris de glace
+• Valeur à neuf / valeur vénale
+2. RC privée
+• Dommages matériels causés à autrui
+• Dommages corporels causés à autrui
+• Dommages causés par les enfants / animaux
+• Dommages causés dans un logement loué
+3. Véhicules
+• RC véhicule → obligatoire
+• Casco partielle → vol, bris de glace, incendie, forces naturelles
+• Casco complète → casco partielle + collision
+4. Voyage
+• Annulation
+• Assistance
+• Bagages
+• Retard
+5. Accidents (LAA + complémentaire)
+• Accidents professionnels
+• Accidents non professionnels
+• Prestations : soins, indemnités journalières, invalidité, décès
+• Coordination avec maladie / AVS / AI
+🟧 MODULE NON-VIE — COUCHE 4
+Glossaire (définitions reformulées)
+Valeur à neuf
+Montant nécessaire pour remplacer un objet par un équivalent neuf.
+Valeur vénale
+Valeur actuelle d’un objet en tenant compte de l’usure.
+Casco partielle
+Assurance couvrant les dommages non liés à une collision (vol, bris de glace, incendie, 
+forces naturelles).
+Casco complète
+Casco partielle + dommages dus à une collision.
+Responsabilité civile (RC)
+Obligation de réparer les dommages causés à autrui.
+Accident
+Atteinte soudaine, involontaire et dommageable portée au corps humain.
+Événements naturels
+Tempête, grêle, inondation, avalanche, etc.
+🟫 MODULE NON-VIE — COUCHE 5
+Cas pratiques (situations réalistes)
+Cas 1 — RC privée
+Un enfant casse la télévision d’un voisin en jouant.
+→ RC privée couvre le dommage.
+Cas 2 — Ménage
+Un dégât d’eau détruit un canapé.
+→ Assurance ménage couvre selon valeur à neuf.
+Cas 3 — Casco
+Un client percute un poteau en manœuvrant.
+→ Casco complète couvre, pas la partielle.
+Cas 4 — Voyage
+Un client tombe malade avant un voyage.
+→ Assurance annulation intervient si la cause est reconnue.
+Cas 5 — Accident
+Un salarié se blesse en bricolant le week-end.
+→ Accident non professionnel → LAA si couvert.
+🟪 MODULE NON-VIE — COUCHE 6
+Quiz (questions originales)
+Q1
+La RC privée couvre :
+A. Les dommages au propre mobilier
+B. Les dommages causés à autrui
+C. Les dommages au véhicule du client
+D. Les frais de voyage
+→ Réponse : B
+Q2
+La casco partielle couvre :
+A. Collision
+B. Vol
+C. Dommages causés à autrui
+D. Annulation de voyage
+→ Réponse : B
+Q3
+La valeur à neuf signifie :
+A. Valeur après amortissement
+B. Valeur de remplacement neuf
+C. Valeur de marché
+D. Valeur fiscale
+→ Réponse : B
+Q4
+La LAA couvre :
+A. Les maladies
+B. Les accidents professionnels et non professionnels
+C. Les dommages aux biens
+D. Les voyages
+→ Réponse : B
+🟦 MODULE NON-VIE — COUCHE 7
+Examen blanc (niveau AFA)
+Q1 — RC privée
+Un client renverse accidentellement un vélo dans la rue.
+→ RC privée couvre le dommage.
+Q2 — Ménage
+Un vol par effraction détruit une porte.
+→ Ménage couvre le dommage matériel.
+Q3 — Casco
+Un arbre tombe sur une voiture.
+→ Casco partielle couvre.
+Q4 — Voyage
+Un bagage est perdu par la compagnie aérienne.
+→ Assurance bagages intervient.
+Q5 — Accident
+Un salarié se blesse en allant au travail.
+→ Accident professionnel → LAA.
+🟩 MODULE NON-VIE — COUCHE 8
+Plan d’étude
+Semaine 1 :
+• Ménage
+• RC privée
+Semaine 2 :
+• Véhicules
+• Casco
+Semaine 3 :
+• Voyage
+• Accidents (LAA + complémentaire)
+Révision 7 jours :
+• Quiz + cas pratiques
+• Schémas logiques
+Révision 48h :
+• Flashcards
+• Résumé express
+🟨 MODULE NON-VIE — COUCHE 9
+Parcours adaptatif
+Si l’utilisateur échoue sur :
+• Casco → renvoi vers schémas + quiz ciblés
+• RC privée → renvoi vers cas pratiques
+• Ménage → renvoi vers explications + résumé
+• Accidents → renvoi vers schéma LAA + quiz
+🟧 MODULE NON-VIE — COUCHE 10
+Base de données (structure textuelle)
+Module
+• id: non_vie
+• nom: Module Non-Vie
+Thèmes
+• Assurance ménage
+• RC privée
+• RC immeuble
+• Véhicules (RC + casco)
+• Voyage
+• Accidents (LAA + complémentaire)
+Items pédagogiques
+Pour chaque thème :
+• résumé
+• explications
+• schémas
+• glossaire
+• cas pratiques
+• quiz
+• examen blanc
+• plan de révision
+• parcours adaptatif
+

@@ -1,0 +1,135 @@
+﻿🟦 SUPER-SOURCE 11 : EXCLUSIONS & LIMITES
+Contient : exclusions légales, exclusions contractuelles, limites de couverture, pièges, 
+cas pratiques, quiz, examen blanc
+Objectif : permettre à l’IA d’identifier les trous de couverture et les risques non assurés
+🟦 1. Principes généraux
+Résumé
+Une exclusion est un événement non couvert par un contrat d’assurance.
+Une limite est une restriction de la couverture (montant, durée, conditions).
+Les exclusions peuvent être :
+• légales (imposées par la loi)
+• contractuelles (imposées par l’assureur)
+• techniques (liées au fonctionnement du produit)
+• comportementales (faute grave, intention)
+Pourquoi c’est essentiel
+• éviter les mauvaises surprises
+• éviter les litiges
+• éviter les réticences
+• conseiller correctement
+• détecter les trous de couverture
+🟩 2. Exclusions légales (par loi)
+LAMal
+• traitements non reconnus
+• médicaments hors liste
+• soins à l’étranger non urgents
+• chirurgie esthétique non médicale
+LAA
+• faute grave → réduction
+• entreprise téméraire → exclusion
+• accident non professionnel si <8h/semaine
+• accident non reconnu
+LPP / OPP2
+• pas de couverture avant seuil salarial
+• pas de couverture vieillesse avant 24 ans
+• pas de couverture invalidité avant 17 ans
+• pas de rachat après retrait EPL non remboursé
+AVS/AI
+• pas de rente si invalidité <40 %
+• réduction si fraude
+• pas de rente survivants si conditions non remplies
+3a / OPP3
+• retrait uniquement dans cas autorisés
+• pas de déduction fiscale sans revenu AVS
+🟨 3. Exclusions contractuelles (par produit)
+Assurance ménage
+• dommages intentionnels
+• usure
+• défaut d’entretien
+• objets non déclarés
+• valeurs non assurées
+RC privée
+• dommages intentionnels
+• dommages professionnels
+• dommages au conjoint
+• dommages à soi-même
+Assurance vie
+• suicide (selon délai)
+• fraude
+• fausse déclaration (réticence)
+Complémentaire santé (LCA)
+• réserves médicales
+• exclusions spécifiques (sport extrême, traitements non reconnus)
+• délais d’attente
+Protection juridique
+• litiges antérieurs
+• litiges familiaux (selon produit)
+• litiges professionnels (selon produit)
+🟧 4. Limites de couverture
+Limites financières
+• somme assurée
+• plafond annuel
+• franchise
+• quote-part
+• valeur à neuf / valeur actuelle
+Limites temporelles
+• délai d’attente
+• durée du contrat
+• durée de la rente
+Limites géographiques
+• Suisse uniquement
+• Europe
+• Monde (selon produit)
+Limites techniques
+• coordination entre assurances
+• double assurance
+• sous-assurance
+🟫 5. Pièges fréquents (AFA & terrain)
+1. Croire que tout est couvert par la LAMal
+2. Oublier les réserves LCA
+3. Confondre AP/ANP
+4. Penser que la LPP couvre tout le salaire
+5. Oublier les exclusions RC (dommages au conjoint)
+6. Penser que la LAA couvre les indépendants
+7. Oublier les limites d’âge LPP
+8. Croire que la PJ couvre tous les litiges
+9. Oublier les exclusions en cas de faute grave
+10. Penser que le 3a est libre comme le 3b
+🟪 6. Cas pratiques (transversaux)
+Cas 1 – Accident de sport extrême
+→ LAA peut réduire ou exclure (entreprise téméraire).
+Cas 2 – Dégât d’eau dû à un défaut d’entretien
+→ Ménage refuse (usure / entretien).
+Cas 3 – Litige professionnel avec l’employeur
+→ PJ privée ne couvre pas (selon produit).
+Cas 4 – Décès par suicide dans les 3 premières années
+→ Vie peut exclure selon conditions.
+Cas 5 – Retrait 3a pour acheter une voiture
+→ Refus (non autorisé).
+Cas 6 – Accident d’un indépendant
+→ Pas de LAA obligatoire → LAMal.
+Cas 7 – Invalidité 35 %
+→ Pas de rente AI → pas de rente LPP.
+Cas 8 – Dommage causé au conjoint
+→ RC privée exclut.
+Cas 9 – Traitement esthétique
+→ LAMal exclut.
+Cas 10 – Objet de valeur non déclaré
+→ Ménage limite ou exclut.
+🟦 7. Quiz (10 questions)
+1. LAMal couvre la chirurgie esthétique → faux
+2. LAA couvre les indépendants → faux
+3. RC couvre les dommages au conjoint → faux
+4. LPP couvre tout le salaire → faux
+5. 3a peut être retiré librement → faux
+6. PJ couvre les litiges antérieurs → faux
+7. AI couvre invalidité 35 % → faux
+8. Vie peut exclure suicide selon délai → vrai
+9. Ménage exclut usure → vrai
+10. LCA peut appliquer des réserves → vrai
+🟦 8. Examen blanc (niveau AFA)
+1. Accident téméraire → LAA peut exclure
+2. Dégât d’eau par usure → ménage refuse
+3. Litige professionnel → PJ privée refuse
+4. Invalidité 30 % → pas de rente AI
+5. Retrait 3a pour voiture → refus
+

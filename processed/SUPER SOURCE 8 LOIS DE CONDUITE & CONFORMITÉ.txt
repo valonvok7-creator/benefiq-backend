@@ -1,0 +1,117 @@
+﻿🟦 SUPER-SOURCE 3 : LOIS DE CONDUITE & CONFORMITÉ
+Contient : LCA (général) + LPD (général) + LSFin/LEFin + FINMA (principes)
+Bloc unique pour tout ce qui touche au comportement professionnel, à la transparence 
+et à la protection du client
+=========================================
+🟦 LCA – Partie Générale (Loi sur le contrat d’assurance)
+=========================================
+Résumé fidèle
+La LCA encadre les relations contractuelles entre assureurs et assurés. Elle définit les 
+règles de formation du contrat, les obligations de déclaration, les réticences, les délais, 
+les résiliations, les obligations de l’assureur, les exclusions, les sinistres et les délais de 
+prescription.
+Explications pédagogiques
+La LCA fixe les règles du jeu entre assureur et client :
+• questionnaire de santé → obligation de répondre correctement
+• réticence → sanctions possibles
+• délais de résiliation → selon type de contrat
+• obligations de l’assureur → payer les prestations promises
+• obligations du client → déclarer le sinistre à temps
+Schémas
+• Formation du contrat
+• Réticence
+• Délais de résiliation
+• Obligations réciproques
+Glossaire
+Réticence, proposition, police, sinistre, prescription, résiliation.
+Cas pratiques
+Réticence, déclaration tardive, résiliation, exclusion, mauvaise foi.
+Quiz
+4 questions (réticence, obligations, délais, sinistre).
+Examen blanc
+5 questions (réticence, délais, obligations, résiliation, sinistre).
+=========================================
+🟦 LPD – Partie Générale (Protection des données)
+=========================================
+Résumé fidèle
+La LPD encadre la collecte, le traitement, la conservation et la protection des données 
+personnelles. Elle impose transparence, proportionnalité, finalité, sécurité, droits 
+d’accès, rectification, effacement, et obligations en cas de violation.
+Explications pédagogiques
+La LPD protège les données du client :
+• informer le client
+• collecter uniquement ce qui est nécessaire
+• sécuriser les données
+• permettre l’accès et la correction
+• documenter les violations
+Schémas
+• Principes : licéité, transparence, finalité, proportionnalité, sécurité
+• Droits du client
+• Obligations de l’intermédiaire
+• Violation de données
+Glossaire
+Donnée personnelle, finalité, proportionnalité, sécurité, violation.
+Cas pratiques
+Email non sécurisé, droit d’accès, finalité non respectée, rectification, fuite de données.
+Quiz
+4 questions (finalité, accès, violation, proportionnalité).
+Examen blanc
+4 questions (transparence, sécurité, accès, finalité).
+=========================================
+🟦 LSFin / LEFin – Règles de conduite
+=========================================
+Résumé fidèle
+La LSFin et la LEFin définissent les règles de conduite applicables aux prestataires 
+financiers. Certaines obligations s’appliquent aussi aux intermédiaires d’assurance : 
+information préalable, transparence des coûts, explication des risques, documentation, 
+loyauté, gestion des conflits d’intérêts.
+Explications pédagogiques
+La LSFin impose :
+• informer clairement le client
+• expliquer les risques et limites
+• documenter le conseil
+• agir dans l’intérêt du client
+• gérer les conflits d’intérêts
+• être transparent sur les rémunérations
+Schémas
+• Obligations de conduite
+• Information préalable
+• Documentation
+• Conflits d’intérêts
+Glossaire
+Obligation d’information, documentation, conflit d’intérêts, transparence.
+Cas pratiques
+Transparence, documentation, information préalable, risques, conflits d’intérêts.
+Quiz
+4 questions (information, documentation, transparence, conflits).
+Examen blanc
+4 questions (information, documentation, transparence, loyauté).
+=========================================
+🟦 FINMA – Principes de conduite & surveillance
+=========================================
+Résumé fidèle
+La FINMA supervise les assureurs et intermédiaires. Elle impose des règles de conduite : 
+loyauté, diligence, transparence, gestion des conflits d’intérêts, protection du client, 
+documentation, formation continue, organisation interne adéquate.
+Explications pédagogiques
+La FINMA exige que les conseillers :
+• agissent dans l’intérêt du client
+• évitent les conflits d’intérêts
+• documentent correctement
+• protègent les données
+• soient formés et compétents
+• respectent les règles de transparence
+Schémas
+• Règles FINMA
+• Obligations de l’intermédiaire
+• Contrôles et surveillance
+Glossaire
+Surveillance, diligence, loyauté, transparence, conformité.
+Cas pratiques
+Conflit d’intérêts, documentation insuffisante, manque de transparence, 
+non-conformité.
+Quiz
+4 questions (loyauté, transparence, conflits, documentation).
+Examen blanc
+4 questions (conduite, transparence, conflits, obligations)
+

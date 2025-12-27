@@ -1,0 +1,139 @@
+﻿🟦 SUPER-SOURCE 13 ERREURS FRÉQUENTES
+Contient : erreurs de compréhension, erreurs de coordination, erreurs de logique, 
+pièges AFA, cas pratiques, quiz, examen blanc
+Objectif : permettre à l’IA d’identifier et corriger automatiquement les erreurs des 
+utilisateurs
+🟦 1. Erreurs générales (tous modules)
+Erreur 1 : Confondre accident et maladie
+• Accident = LAA
+• Maladie = LAMal
+→ Erreur la plus fréquente en AFA.
+Erreur 2 : Croire que la LAMal couvre tout
+• Non : médicaments hors liste, soins non reconnus, esthétique, etc.
+Erreur 3 : Penser que la LAA couvre les indépendants
+• Faux : uniquement volontaire.
+Erreur 4 : Confondre AP et ANP
+• AP = travail + trajet direct
+• ANP = vie privée (si ≥ 8h/semaine)
+Erreur 5 : Penser que le 3a est libre comme le 3b
+• Faux : retraits strictement encadrés.
+🟩 2. Erreurs en prévoyance (AVS/AI – LPP – OPP2 – OPP3)
+Erreur 6 : Croire que l’AI verse une rente dès 30 %
+• Faux : seuil = 40 %.
+Erreur 7 : Penser que la LPP couvre tout le salaire
+• Faux : salaire coordonné seulement.
+Erreur 8 : Oublier les limites d’âge LPP
+• Invalidité dès 17 ans
+• Vieillesse dès 24 ans
+Erreur 9 : Confondre rachat LPP et 3a
+• Rachat = LPP
+• Déduction fiscale 3a ≠ rachat
+Erreur 10 : Penser que le 3a peut être retiré pour n’importe quel projet
+• Faux : seulement cas OPP3.
+🟨 3. Erreurs en assurances de choses & RC (Non-Vie)
+Erreur 11 : Croire que la RC couvre les dommages au conjoint
+• Faux : exclusion standard.
+Erreur 12 : Penser que le ménage couvre l’usure
+• Faux : usure = exclusion.
+Erreur 13 : Oublier la sous-assurance
+• Indemnité réduite proportionnellement.
+Erreur 14 : Confondre valeur à neuf et valeur actuelle
+• Valeur actuelle = dépréciation.
+Erreur 15 : Penser que la RC couvre les dommages professionnels
+• Faux : RC privée = vie privée uniquement.
+🟧 4. Erreurs en assurances santé (LAMal – LCA)
+Erreur 16 : Penser que la LAMal peut refuser un assuré
+• Faux : obligation d’accepter.
+Erreur 17 : Oublier les réserves LCA
+• LCA = liberté contractuelle.
+Erreur 18 : Confondre franchise et quote-part
+• Franchise = montant fixe
+• Quote-part = % des coûts
+Erreur 19 : Croire que la complémentaire couvre automatiquement la chambre privée
+• Faux : dépend du contrat.
+Erreur 20 : Penser que la LAMal couvre les soins dentaires
+• Faux sauf cas très spécifiques.
+🟫 5. Erreurs en conduite & conformité (LCA – LPD – LSFin – FINMA)
+Erreur 21 : Oublier l’obligation d’information
+• Avant la signature.
+Erreur 22 : Penser que la documentation est facultative
+• Faux : FINMA exige traçabilité.
+Erreur 23 : Ne pas gérer les conflits d’intérêts
+• Obligation LSFin.
+Erreur 24 : Collecter trop de données
+• Violation LPD (proportionnalité).
+Erreur 25 : Envoyer des données médicales par email non sécurisé
+• Violation LPD.
+🟪 6. Erreurs de coordination (transversal)
+Erreur 26 : Penser que LAA + LAMal = doublon
+• Faux : LAA prime, LAMal prend le relais si refus.
+Erreur 27 : Confondre invalidité AI et invalidité LPP
+• AI détermine le taux
+• LPP applique le même taux
+Erreur 28 : Penser que la LPP couvre les accidents
+• Faux : LAA couvre les accidents.
+Erreur 29 : Oublier que les rentes se cumulent
+• AI + LPP
+• Survivants AVS + LPP
+Erreur 30 : Penser que la RC couvre les dommages matériels du ménage
+• Faux : ménage ≠ RC.
+🟦 7. Pièges AFA (les plus fréquents)
+1. Accident d’un indépendant → LAMal
+2. Invalidité 35 % → pas de rente
+3. Accident d’un enfant → LAMal
+4. Retrait 3a pour voiture → refus
+5. RC couvre conjoint → faux
+6. LPP couvre tout le salaire → faux
+7. LAMal couvre dentiste → faux
+8. LAA couvre sport extrême → parfois exclu
+9. PJ couvre litige antérieur → faux
+10. Complémentaire = acceptation automatique → faux
+🟦 8. Cas pratiques (10 erreurs typiques)
+Cas 1 – Accident d’un indépendant
+Erreur : penser que LAA couvre.
+→ Correction : LAMal.
+Cas 2 – Invalidité 30 %
+Erreur : croire à une rente.
+→ Correction : seuil = 40 %.
+Cas 3 – Dégât d’eau par usure
+Erreur : croire que ménage couvre.
+→ Correction : exclusion.
+Cas 4 – Retrait 3a pour voiture
+Erreur : croire que c’est autorisé.
+→ Correction : refus.
+Cas 5 – RC et conjoint
+Erreur : croire que RC couvre.
+→ Correction : exclusion.
+Cas 6 – Complémentaire santé
+Erreur : croire que l’assureur doit accepter.
+→ Correction : LCA = liberté.
+Cas 7 – Rachat LPP
+Erreur : confondre avec 3a.
+→ Correction : rachat = LPP.
+Cas 8 – Accident de sport extrême
+Erreur : croire que LAA couvre toujours.
+→ Correction : entreprise téméraire.
+Cas 9 – Litige professionnel
+Erreur : croire que PJ privée couvre.
+→ Correction : selon produit.
+Cas 10 – Valeur à neuf
+Erreur : croire que tout est remboursé.
+→ Correction : selon contrat.
+🟦 9. Quiz (10 questions)
+1. LAA couvre les indépendants → faux
+2. RC couvre conjoint → faux
+3. LAMal couvre dentiste → faux
+4. Invalidité 35 % → pas de rente
+5. 3a libre → faux
+6. Complémentaire = acceptation automatique → faux
+7. LPP couvre tout le salaire → faux
+8. Accident enfant → LAMal
+9. Rachat = LPP → vrai
+10. PJ couvre litige antérieur → faux
+🟦 10. Examen blanc (niveau AFA)
+1. Accident indépendant → LAMal
+2. Invalidité 30 % → pas de rente
+3. RC et conjoint → exclusion
+4. Retrait 3a voiture → refus
+5. Complémentaire santé → liberté contractuelle
+

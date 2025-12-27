@@ -1,0 +1,154 @@
+﻿🟦 SUPER-SOURCE 10 : RISQUES & BESOINS CLIENTS
+Contient : profils clients, risques typiques, besoins essentiels, priorités, cas pratiques, 
+schémas, quiz, examen blanc
+Objectif : permettre à l’IA d’identifier les besoins d’un client en quelques questions
+🟦 1. Principes généraux
+Résumé
+Chaque client a des risques spécifiques selon sa situation familiale, professionnelle, 
+financière et patrimoniale.
+Le rôle du conseiller est d’identifier ces risques et de proposer les solutions adaptées.
+Les 4 catégories de risques
+1. Risques humains : décès, invalidité, maladie, perte de gain
+2. Risques matériels : incendie, vol, dégâts d’eau, bris
+3. Risques financiers : retraite, lacunes LPP, fiscalité
+4. Risques juridiques : RC, litiges, responsabilité professionnelle
+Les 4 catégories de besoins
+1. Protection
+2. Prévoyance
+3. Patrimoine
+4. Responsabilité
+🟩 2. Profils clients & risques associés
+🟩 A. Famille avec enfants
+Risques
+• décès d’un parent
+• invalidité d’un parent
+• perte de revenu
+• frais médicaux élevés
+• litiges (école, voisinage)
+• RC familiale
+Besoins
+• capital décès
+• rente d’invalidité
+• assurance ménage + RC
+• complémentaire santé
+• 3a / 3b
+• protection juridique
+🟩 B. Salarié (sans enfants)
+Risques
+• incapacité de gain
+• lacunes LPP
+• accident non professionnel
+• maladie longue durée
+Besoins
+• perte de gain maladie
+• complémentaire LCA
+• 3a
+• RC privée
+🟩 C. Indépendant
+Risques
+• pas de LAA obligatoire
+• pas de LPP obligatoire
+• perte de gain totale
+• responsabilité civile professionnelle
+• litiges commerciaux
+Besoins
+• LAA volontaire
+• perte de gain maladie
+• LPP ou 3a indépendant
+• RC professionnelle
+• protection juridique
+🟩 D. Senior / pré-retraité
+Risques
+• lacunes AVS/LPP
+• coûts médicaux élevés
+• dépendance
+• succession non planifiée
+Besoins
+• optimisation retraite
+• complémentaire santé senior
+• planification successorale
+• 3b (capital décès)
+🟩 E. Étudiant / jeune adulte
+Risques
+• RC (dommages)
+• accident (sport)
+• frais dentaires
+• vol (vélo, ordinateur)
+Besoins
+• RC privée
+• ménage
+• complémentaire dentaire
+• LAA si activité salariée
+🟩 F. Entreprise / PME
+Risques
+• responsabilité civile entreprise
+• perte d’exploitation
+• cyber-risques
+• accidents du personnel
+• litiges commerciaux
+Besoins
+• RC entreprise
+• LAA + LPP pour employés
+• cyber assurance
+• protection juridique entreprise
+• assurance choses
+🟨 3. Schémas logiques
+Schéma 1 : Identifier les besoins en 3 questions
+1. Situation familiale
+2. Situation professionnelle
+3. Situation financière
+→ Déduit automatiquement :
+• risques humains
+• risques matériels
+• besoins prioritaires
+Schéma 2 : Priorités par profil
+• Famille → décès / invalidité / RC
+• Indépendant → perte de gain / LAA / RC pro
+• Salarié → perte de gain / santé
+• Senior → santé / retraite
+• Étudiant → RC / dentaire
+• PME → RC / LAA / cyber
+Schéma 3 : Risques → Solutions
+• Décès → vie / 3b
+• Invalidité → LPP / 3a / perte de gain
+• Accident → LAA
+• Maladie → LAMal + LCA
+• RC → RC privée / RC entreprise
+• Retraite → AVS + LPP + 3a
+🟧 4. Glossaire
+Risque humain : décès, invalidité, maladie.
+Risque matériel : dommages aux biens.
+Risque financier : retraite, fiscalité, lacunes.
+Risque juridique : litiges, responsabilité.
+Besoins essentiels : protection, prévoyance, patrimoine, responsabilité.
+Profil client : situation familiale + professionnelle + financière.
+🟫 5. Cas pratiques (transversaux)
+Cas 1 – Famille avec 2 enfants
+Le père est indépendant, la mère salariée.
+→ Besoins : perte de gain, LAA volontaire, capital décès, RC, ménage, 3a.
+Cas 2 – Jeune salarié
+→ Besoins : RC, complémentaire santé, 3a.
+Cas 3 – Indépendant sans LPP
+→ Besoins : perte de gain, LAA volontaire, 3a indépendant.
+Cas 4 – Senior proche de la retraite
+→ Besoins : optimisation AVS/LPP, complémentaire santé, planification successorale.
+Cas 5 – PME de 12 employés
+→ Besoins : RC entreprise, LAA, LPP, cyber, PJ entreprise.
+🟪 6. Quiz (10 questions)
+1. Famille = priorité décès → vrai
+2. Indépendant = pas de LAA obligatoire → vrai
+3. Étudiant = besoin RC → vrai
+4. Senior = priorité santé → vrai
+5. Salarié = besoin LAA volontaire → faux
+6. Indépendant = besoin perte de gain → vrai
+7. Famille = besoin 3a → vrai
+8. PME = besoin cyber → vrai
+9. Jeune adulte = besoin dentaire → vrai
+10. Senior = besoin capital décès → parfois
+🟦 7. Examen blanc (niveau AFA)
+1. Indépendant → perte de gain + LAA volontaire
+2. Famille → capital décès + invalidité
+3. Senior → santé + retraite
+4. Étudiant → RC + dentaire
+5. PME → RC entreprise + LAA + cyber
+

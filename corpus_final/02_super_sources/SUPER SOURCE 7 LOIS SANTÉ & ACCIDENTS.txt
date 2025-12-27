@@ -1,0 +1,124 @@
+﻿🟦 SUPER-SOURCE 2 : LOIS SANTÉ & ACCIDENTS
+Contient : LAMal + LAA + LCA (santé) + LPD (santé)
+Bloc unique pour tout ce qui touche aux soins, accidents, prestations médicales,
+coordination santé
+Tu peux copier-coller ce bloc entier dans une nouvelle source NotebookLM appelée :
+SUPER-SOURCE – Lois Santé & Accidents (LAMal + LAA + LCA Santé + LPD Santé)
+Ensuite, tu pourras supprimer les anciennes sources :
+• LAMal
+• LAA
+• LCA (si tu veux la séparer ensuite)
+• LPD (si tu veux la séparer ensuite)
+=========================================
+🟦 LAMal – Assurance-maladie obligatoire
+=========================================
+Résumé fidèle
+La LAMal définit l’assurance obligatoire des soins en Suisse. Elle fixe les prestations
+minimales, les franchises, les quote-parts, les modèles d’assurance, les obligations des
+assureurs et des assurés, et les conditions de prise en charge des traitements,
+médicaments et hospitalisations.
+Explications pédagogiques
+La LAMal couvre les soins essentiels :
+• consultations
+• médicaments reconnus
+• hospitalisation en division commune
+• maternité
+• urgences
+• traitements ambulatoires
+Assureurs obligés d’accepter tout le monde.
+Franchise + quote-part = participation aux coûts.
+Schémas
+• Prestations
+• Participation aux coûts
+• Modèles alternatifs (HMO, médecin de famille, télémédecine)
+• Obligations de l’assuré
+Glossaire
+Franchise, quote-part, division commune, médicaments reconnus, modèle HMO.
+Cas pratiques
+Franchise élevée, hospitalisation, médicament non reconnu, modèle médecin de
+famille, maternité.
+Quiz
+4 questions (prestations, franchise, division commune, acceptation).
+Examen blanc
+5 questions (franchise, hospitalisation, médicaments, modèles, maternité).
+=========================================
+🟦 LAA – Assurance-accidents
+=========================================
+Résumé fidèle
+La LAA couvre les accidents professionnels (AP) et non professionnels (ANP) des
+salariés. Elle définit les prestations de soins, indemnités journalières, rentes d’invalidité,
+rentes de survivants, atteinte à l’intégrité, et les obligations de l’employeur et de
+l’assuré.
+Explications pédagogiques
+• AP = au travail ou trajet direct
+• ANP = vie privée (si ≥ 8h/semaine)
+• Employeur paie AP
+• Employé paie ANP
+• Prestations : soins, IJ, invalidité, survivants, intégrité
+Schémas
+• AP / ANP
+• Prestations
+• Obligations
+• Coordination LAA ↔ LAMal ↔ LPP
+Glossaire
+AP, ANP, indemnité journalière, rente d’invalidité, atteinte à l’intégrité.
+Cas pratiques
+ANP football, AP machine, <8h/semaine, trajet, coordination.
+Quiz
+4 questions (ANP, trajet, prime AP, couverture).
+Examen blanc
+5 questions (ANP, AP, <8h, IJ, coordination).
+=========================================
+🟦 LCA (partie Santé) – Loi sur le contrat d’assurance
+=========================================
+Résumé fidèle
+La LCA encadre les assurances complémentaires maladie (LCA santé). Elle définit la
+liberté contractuelle, les questionnaires de santé, les exclusions, les réserves, les délais
+d’attente, les prestations complémentaires (semi-privée, privée, médecines
+alternatives, etc.).
+Explications pédagogiques
+Contrairement à la LAMal :
+• l’assureur peut refuser un client
+• il peut appliquer des réserves
+• il peut fixer les prestations librement
+• il peut résilier selon conditions
+Schémas
+• LAMal vs LCA
+• Acceptation / refus
+• Réserves
+• Prestations complémentaires
+Glossaire
+Réserve, exclusion, complémentaire, libre passage, questionnaire de santé.
+Cas pratiques
+Refus, réserve, chambre privée, médecine alternative, délai d’attente.
+Quiz
+4 questions (réserve, refus, prestations, liberté contractuelle).
+Examen blanc
+5 questions (réserve, refus, prestations, coordination, LAMal vs LCA).
+=========================================
+🟦 LPD (partie Santé) – Protection des données médicales
+=========================================
+Résumé fidèle
+La LPD encadre la gestion des données personnelles, dont les données médicales
+(catégorie sensible). Elle impose transparence, sécurité, proportionnalité, finalité, droits
+d’accès, rectification, effacement, et obligations en cas de violation.
+Explications pédagogiques
+Les données médicales doivent être :
+• collectées pour une raison valable
+• protégées
+• accessibles au client
+• corrigées si erreur
+• supprimées si non nécessaires
+Schémas
+• Principes : licéité, transparence, finalité, proportionnalité, sécurité
+• Droits du client
+• Obligations de l’intermédiaire
+• Violation de données
+Glossaire
+Donnée sensible, finalité, proportionnalité, violation, sécurité.
+Cas pratiques
+Email non sécurisé, droit d’accès, finalité non respectée, rectification, vol d’ordinateur.
+Quiz
+4 questions (finalité, accès, violation, proportionnalité).
+Examen blanc
+4 questions (transparence, sécurité, accès, finalité)

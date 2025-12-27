@@ -1,0 +1,165 @@
+=========================================
+🟦 OBLIGATIONS DU CONSEILLER AFA
+Résumé fidèle (couche 1)
+=========================================
+
+Le conseiller soumis à l’AFA doit respecter un ensemble d’obligations professionnelles visant à garantir la protection du client, la transparence, la loyauté et la conformité réglementaire. Ces obligations couvrent la conduite, l’information, la documentation, la diligence, la formation continue et la gestion des conflits d’intérêts.
+
+1. Devoir d’information
+• informer le client de manière complète, exacte et compréhensible
+• expliquer les produits, risques, coûts, exclusions, limites
+• adapter l’information au niveau de connaissance du client
+• communiquer les liens d’indépendance ou de dépendance (mandat, courtage, rémunération)
+
+2. Devoir de clarification
+• analyser la situation du client (besoins, risques, objectifs)
+• vérifier les connaissances financières du client
+• identifier les lacunes de couverture
+• clarifier la tolérance au risque et les priorités
+
+3. Devoir de conseil
+• proposer des solutions adaptées à la situation du client
+• justifier les recommandations
+• éviter les produits inadaptés ou trop complexes
+• agir dans l’intérêt du client
+
+4. Devoir de documentation
+• documenter l’analyse du client
+• documenter les recommandations
+• documenter les décisions du client
+• conserver les preuves (fiches, analyses, correspondances)
+
+5. Devoir de transparence
+• communiquer les rémunérations (commissions, honoraires)
+• expliquer les conflits d’intérêts potentiels
+• informer sur les limitations du mandat
+
+6. Devoir de diligence
+• agir avec soin, compétence et professionnalisme
+• vérifier l’exactitude des informations transmises
+• mettre à jour les données du client
+• suivre les évolutions réglementaires
+
+7. Devoir de loyauté
+• agir dans l’intérêt du client avant l’intérêt commercial
+• éviter les incitations inappropriées
+• refuser les pratiques trompeuses ou agressives
+
+8. Devoir de formation continue
+• maintenir ses connaissances à jour
+• suivre les formations obligatoires AFA
+• se tenir informé des évolutions légales et produits
+
+9. Gestion des conflits d’intérêts
+• identifier les conflits potentiels
+• les communiquer au client
+• mettre en place des mesures d’atténuation
+• refuser les situations non gérables
+
+10. Confidentialité & protection des données
+• respecter la LPD
+• collecter uniquement les données nécessaires
+• sécuriser les données
+• informer en cas de violation
+
+=========================================
+🟩 Version pédagogique (couche 2)
+=========================================
+
+Le conseiller AFA doit être un “GPS fiable” pour le client. Il doit :
+• comprendre la situation du client
+• expliquer clairement les solutions
+• recommander ce qui est vraiment utile
+• être transparent sur les coûts
+• documenter tout ce qui est dit et fait
+• rester formé et compétent
+
+En résumé :
+→ comprendre le client  
+→ expliquer clairement  
+→ recommander honnêtement  
+→ documenter proprement  
+→ se former continuellement  
+
+=========================================
+🟧 Schémas
+=========================================
+
+Schéma 1 : Les 5 piliers du conseiller AFA
+1. Comprendre (clarification)
+2. Expliquer (information)
+3. Recommander (conseil)
+4. Documenter (preuve)
+5. Protéger (loyauté + données)
+
+Schéma 2 : Processus AFA
+Client → Analyse → Recommandation → Documentation → Suivi
+
+=========================================
+🟨 Checklists
+=========================================
+
+Checklist avant de conseiller :
+☐ Ai-je compris la situation du client ?  
+☐ Ai-je identifié les risques ?  
+☐ Ai-je vérifié ses connaissances ?  
+☐ Ai-je clarifié ses objectifs ?  
+
+Checklist pendant le conseil :
+☐ Ai-je expliqué les coûts ?  
+☐ Ai-je expliqué les risques ?  
+☐ Ai-je expliqué les exclusions ?  
+☐ Ai-je présenté plusieurs options ?  
+
+Checklist après le conseil :
+☐ Ai-je documenté l’analyse ?  
+☐ Ai-je documenté la recommandation ?  
+☐ Ai-je documenté la décision du client ?  
+☐ Ai-je remis les documents obligatoires ?  
+
+=========================================
+🟥 Erreurs typiques
+=========================================
+
+❌ proposer un produit sans analyse préalable  
+❌ ne pas documenter les recommandations  
+❌ minimiser les risques ou exclusions  
+❌ ne pas expliquer les coûts  
+❌ pousser un produit pour la commission  
+❌ ne pas mettre à jour les données du client  
+
+=========================================
+🟪 Cas pratiques
+=========================================
+
+Cas 1 : Le client ne comprend pas les exclusions  
+→ obligation d’information renforcée
+
+Cas 2 : Le client veut un produit inadapté  
+→ obligation de conseil + documentation du refus
+
+Cas 3 : Le conseiller reçoit une commission plus élevée sur un produit  
+→ obligation de transparence + gestion du conflit d’intérêts
+
+Cas 4 : Le client change de situation (mariage, enfant)  
+→ obligation de diligence + mise à jour des données
+
+=========================================
+🟫 Questions d’examen typiques
+=========================================
+
+1. Quel est le devoir principal avant toute recommandation ?  
+→ la clarification de la situation du client
+
+2. Que doit documenter le conseiller ?  
+→ analyse, recommandation, décision du client
+
+3. Que doit faire le conseiller en cas de conflit d’intérêts ?  
+→ informer le client + atténuer + documenter
+
+4. Pourquoi la formation continue est-elle obligatoire ?  
+→ pour garantir compétence et conformité
+
+5. Que doit faire le conseiller si le client refuse une recommandation ?  
+→ documenter le refus
+

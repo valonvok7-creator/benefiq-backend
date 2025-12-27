@@ -1,0 +1,15 @@
+corpus_final/03_index/INDEX GLOBAL.txt
+corpus_final/01_modules/MODULE 3 VIE.txt
+corpus_final/01_modules/MODULE 2 NON -VIE.txt
+corpus_final/01_modules/MODULE 5 AFA.txt
+corpus_final/01_modules/MODULE 4 MALADIE COMPLÉMENTAIRE.txt
+corpus_final/01_modules/MODULE 1 GÉNÉRAL.txt
+corpus_final/02_super_sources/SUPER SOURCE 7 LOIS SANTÉ & ACCIDENTS.txt
+corpus_final/02_super_sources/SUPER SOURCE 8 LOIS DE CONDUITE & CONFORMITÉ.txt
+corpus_final/02_super_sources/SUPER SOURCE 10 RISQUES & BESOINS CLIENTS.txt
+corpus_final/02_super_sources/SUPER SOURCE 12 ERREURS FRÉQUENTES.txt
+corpus_final/02_super_sources/SUPER SOURCE 9 COORDINATION DES ASSURANCES.txt
+corpus_final/02_super_sources/SUPER SOURCE AFA OBLIGATIONS CONSEILLER.txt
+corpus_final/02_super_sources/SUPER SOURCE 13 CAS PRATIQUES TRANSVERSAUX.txt
+corpus_final/02_super_sources/SUPER SOURCE 14 EXAMEN BLANC GLOBAL (AFA).txt
+corpus_final/02_super_sources/SUPER SOURCE 11 EXCLUSIONS & LIMITES.txt

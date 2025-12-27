@@ -1,0 +1,33 @@
+﻿🟦 INDEX GLOBAL – CORPUS BENEFIQ IA
+🟩 MODULES (5 sources)
+Module 1 – Général BenefiQ
+Contenu : devoirs du conseiller, transparence, documentation, conformité, FINMA,
+processus de conseil.
+Module 2 – Non-Vie
+Contenu : ménage, RC, véhicule, protection juridique, exclusions, limites, cas pratiques.
+Module 3 – Vie
+Contenu : décès, invalidité, capital, rentes, fiscalité, coordination avec AVS/AI et LPP.
+Module 4 – Maladie Complémentaire
+Contenu : LCA, prestations, réserves, modèles, coordination LAMal.
+Module 5 – AFA & Qualifications
+Contenu : structure AFA, exigences, objectifs, préparation examen.
+🟦 LOIS (3 super-sources)
+Super-Source 6 – Lois Vie & Prévoyance
+Contenu : AVS/AI, LPP, OPP2, OPP3.
+Super-Source 7 – Lois Santé & Accidents
+Contenu : LAMal, LAA, LCA santé, LPD santé.
+Super-Source 8 – Lois de conduite & conformité
+Contenu : LCA général, LPD général, LSFin/LEFin, FINMA.
+🟨 TRANSVERSAL (6 super-sources)
+Super-Source 9 – Coordination des assurances
+Contenu : AVS ↔ LPP, LAA ↔ LAMal, LAA ↔ LPP, 3a ↔ 3b, Vie ↔ Non-Vie.
+Super-Source 10 – Risques & Besoins Clients
+Contenu : familles, indépendants, salariés, étudiants, seniors, PME.
+Super-Source 11 – Exclusions & Limites
+Contenu : exclusions légales, contractuelles, techniques, comportementales.
+Super-Source 12 – Erreurs fréquentes
+Contenu : pièges AFA, confusions, erreurs de coordination, erreurs de logique.
+Super-Source 13 – Cas pratiques transversaux
+Contenu : 40 cas couvrant Vie + Non-Vie + Santé + LAA + LPP + AVS/AI + 3a/3b.
+Super-Source 14 – Examen blanc global (AFA)
+Contenu : 60 questions couvrant tout le corpus.

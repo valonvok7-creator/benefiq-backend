@@ -1,0 +1,145 @@
+﻿🟦 SUPER-SOURCE 9: COORDINATION DES ASSURANCES
+Contient : AVS/AI ↔ LPP ↔ LAA ↔ LAMal ↔ 3a/3b ↔ Vie ↔ Non-Vie
+Objectif : comprendre comment les assurances interagissent, se complètent ou se 
+remplacent
+🟦 1. Coordination AVS/AI ↔ LPP
+Résumé
+Le 1er pilier (AVS/AI) garantit le minimum vital.
+Le 2e pilier (LPP) maintient le niveau de vie.
+Les deux se complètent pour former la prévoyance professionnelle obligatoire.
+Principes
+• AVS/AI = base
+• LPP = complément
+• Les rentes AI et LPP s’additionnent
+• Les degrés d’invalidité AI déterminent les prestations LPP
+• En cas de décès : survivants AVS + survivants LPP
+Schéma
+• Invalidité AI → détermine le taux
+• LPP applique le même taux
+• Rente totale = AI + LPP
+Cas pratiques
+• Invalidité 60 % → AI (¾) + LPP (¾)
+• Décès → rente conjoint AVS + rente conjoint LPP
+• Retraite → rente AVS + rente LPP
+🟦 2. Coordination LAA ↔ LAMal
+Résumé
+La LAA couvre les accidents.
+La LAMal couvre la maladie.
+Elles ne se chevauchent pas : accident = LAA, maladie = LAMal.
+Principes
+• LAA prime sur LAMal pour les accidents
+• LAMal intervient si :
+• pas de LAA
+• accident non reconnu
+• accident à l’étranger non couvert
+• LAA couvre : soins, IJ, invalidité, survivants, intégrité
+• LAMal couvre : soins uniquement
+Schéma
+1. Accident ?
+• Oui → LAA
+• Non → LAMal
+2. LAA refusé ?
+• LAMal prend le relais
+Cas pratiques
+• Accident de sport → LAA
+• Accident d’un indépendant → LAMal (sauf LAA volontaire)
+• Accident d’un enfant → LAMal (pas de LAA)
+🟦 3. Coordination LAA ↔ LPP
+Résumé
+En cas d’accident entraînant invalidité ou décès, la LAA et la LPP versent toutes deux 
+des prestations.
+Principes
+• LAA = prestations accident
+• LPP = prestations invalidité/décès
+• Les deux s’additionnent
+• La LAA peut réduire si faute grave
+• La LPP ne réduit pas pour faute
+Schéma
+Accident →
+• LAA : soins + IJ + invalidité + survivants
+• LPP : invalidité + survivants
+Cas pratiques
+• Invalidité 50 % suite à accident → LAA + LPP
+• Décès accidentel → survivants LAA + survivants LPP
+🟦 4. Coordination LPP ↔ 3a / 3b
+Résumé
+Le pilier 3 complète les piliers 1 et 2.
+Le 3a est lié (avantages fiscaux), le 3b est libre.
+Principes
+• 3a = complément structuré
+• 3b = complément flexible
+• 3a peut être retiré dans certains cas (EPL, retraite, départ)
+• 3b est libre mais sans avantage fiscal
+Schéma
+1er pilier → minimum vital
+2e pilier → maintien du niveau de vie
+3e pilier → optimisation + protection familiale
+Cas pratiques
+• Lacune LPP → rachat LPP ou 3a
+• Protection famille → 3b (capital décès)
+• Optimisation fiscale → 3a
+🟦 5. Coordination Vie ↔ Non-Vie
+Résumé
+Les assurances Vie couvrent les risques humains (décès, invalidité).
+Les assurances Non-Vie couvrent les biens et la responsabilité civile.
+Principes
+• Vie = décès, invalidité, épargne
+• Non-Vie = RC, ménage, casco, protection juridique
+• Coordination nécessaire en cas d’événement mixte (ex : incendie + décès)
+Schéma
+• Dommage matériel → Non-Vie
+• Dommage humain → Vie
+• Dommage mixte → les deux
+Cas pratiques
+• Incendie + décès → ménage + assurance vie
+• Accident → LAA + vie (si capital décès)
+• RC + invalidité → RC + vie
+🟦 6. Coordination LAMal ↔ LPP
+Résumé
+LAMal couvre les soins.
+LPP couvre l’invalidité et la retraite.
+Principes
+• LAMal = soins
+• LPP = prestations financières
+• LAMal ne verse pas de rente
+• LPP ne paie pas les soins
+Cas pratiques
+• Maladie → LAMal (soins) + LPP (invalidité si durable)
+• Hospitalisation → LAMal
+• Invalidité → AI + LPP
+🟦 7. Coordination AVS/AI ↔ 3a / 3b
+Résumé
+Le 3e pilier complète les rentes AVS/AI.
+Principes
+• AVS/AI = base
+• 3a = optimisation fiscale
+• 3b = protection libre
+• En cas d’invalidité : AI + 3a/3b
+• En cas de décès : survivants AVS + capital 3a/3b
+Cas pratiques
+• Invalidité → AI + rente invalidité 3a
+• Décès → survivants AVS + capital décès 3b
+🟦 8. Coordination globale (vue d’ensemble)
+Résumé
+Chaque assurance a un rôle précis.
+La coordination permet d’éviter les doublons et les trous de couverture.
+Tableau synthétique
+🟦 9. Quiz (10 questions)
+1. Accident → LAA
+2. Maladie → LAMal
+3. Invalidité → AI + LPP
+4. Décès → AVS + LPP + Vie
+5. Retraite → AVS + LPP
+6. EPL → 3a
+7. Accident d’un enfant → LAMal
+8. Accident d’un indépendant → LAMal (sauf LAA volontaire)
+9. Invalidité 60 % → AI + LPP
+10. Décès accidentel → LAA + LPP + Vie
+🟦 10. Examen blanc (niveau AFA)
+5 questions transversales :
+1. Accident + invalidité → LAA + LPP
+2. Maladie + invalidité → LAMal + AI + LPP
+3. Décès → AVS + LPP + Vie
+4. Retraite → AVS + LPP + 3a
+5. Accident d’un salarié <8h → LAMal
+

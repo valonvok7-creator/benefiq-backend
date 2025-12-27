@@ -1,0 +1,178 @@
+﻿🟦 MODULE GÉNÉRAL — COUCHE 1
+Résumé fidèle (synthèse structurée)
+Le module Général couvre les fondations indispensables pour exercer comme
+intermédiaire d’assurance en Suisse. Il englobe le cadre légal transversal, les obligations
+professionnelles, les règles de conduite, les exigences FINMA, les responsabilités, les
+processus de conseil et les différents types d’intermédiaires. L’objectif est de garantir
+que le conseiller maîtrise les règles qui encadrent la relation client, la transparence, la
+protection des données, la documentation, la gestion des conflits d’intérêts et la
+conformité réglementaire. Ce module constitue la base commune à tous les profils AFA.
+🟩 MODULE GÉNÉRAL — COUCHE 2
+Explications pédagogiques (version vulgarisée)
+Le module Général explique comment un conseiller doit se comporter, ce qu’il doit
+respecter, et comment il doit accompagner un client.
+Il ne parle pas encore de produits, mais de règles du jeu.
+• Le conseiller doit agir de manière loyale, transparente, et dans l’intérêt du client.
+• Il doit analyser les besoins, expliquer clairement les solutions, et justifier ses
+recommandations.
+• Il doit documenter ce qu’il dit et ce qu’il propose.
+• Il doit protéger les données personnelles et respecter les lois.
+• Il doit éviter les conflits d’intérêts et les rémunérations opaques.
+• Il doit connaître les acteurs du marché et les différences entre intermédiaires liés et
+non liés.
+En résumé :
+👉 Le module Général enseigne comment être un conseiller professionnel, fiable et
+conforme.
+🟨 MODULE GÉNÉRAL — COUCHE 3
+Schémas logiques (arborescences textuelles)
+1. Processus de conseil
+1. Analyse des besoins
+2. Identification des risques
+3. Explication des solutions
+4. Comparaison et justification
+5. Recommandation
+6. Documentation
+7. Suivi
+2. Obligations professionnelles
+• Avant le conseil → Information
+• Pendant le conseil → Transparence
+• Après le conseil → Documentation
+• En continu → Loyauté & diligence
+3. Types d’intermédiaires
+• Intermédiaire lié
+• Représente un seul assureur
+• Intermédiaire non lié
+• Représente le client
+• Peut comparer plusieurs assureurs
+4. Gestion des conflits d’intérêts
+1. Identifier
+2. Déclarer
+3. Éviter
+4. Documenter
+🟧 MODULE GÉNÉRAL — COUCHE 4
+Glossaire (définitions reformulées)
+Intermédiaire lié
+Professionnel représentant un seul assureur, avec une marge de manœuvre limitée
+dans le choix des produits.
+Intermédiaire non lié
+Conseiller indépendant représentant le client et pouvant comparer plusieurs assureurs.
+Devoir de diligence
+Obligation d’agir avec soin, compétence et attention dans l’intérêt du client.
+Transparence
+Obligation d’expliquer clairement les coûts, prestations, limites et conditions.
+Documentation
+Enregistrement des besoins, recommandations et décisions prises avec le client.
+Conflit d’intérêts
+Situation où l’intérêt du conseiller pourrait influencer la recommandation.
+Protection des données
+Respect des règles de confidentialité et de sécurité des informations personnelles.
+🟫 MODULE GÉNÉRAL — COUCHE 5
+Cas pratiques (situations réalistes)
+Cas 1 — Conflit d’intérêts potentiel
+Un conseiller reçoit une commission plus élevée pour un produit A que pour un produit
+B, mais le produit B correspond mieux au client.
+→ Le conseiller doit recommander B, expliquer pourquoi, et documenter.
+Cas 2 — Transparence insuffisante
+Le client n’a pas compris une exclusion importante.
+→ Le conseiller doit reformuler, vérifier la compréhension, et noter l’explication.
+Cas 3 — Intermédiaire lié
+Un conseiller lié ne peut proposer qu’un seul assureur.
+→ Il doit informer le client de cette limitation avant le conseil.
+Cas 4 — Protection des données
+Un conseiller envoie des documents sensibles par email non sécurisé.
+→ Non conforme : il doit utiliser un canal sécurisé.
+🟪 MODULE GÉNÉRAL — COUCHE 6
+Quiz (questions originales)
+Q1
+Quel est le rôle principal du devoir de diligence ?
+A. Protéger l’assureur
+B. Accélérer la vente
+C. Agir dans l’intérêt du client
+D. Réduire les coûts internes
+→ Réponse : C
+Q2
+Quel intermédiaire représente le client ?
+A. Intermédiaire lié
+B. Intermédiaire non lié
+C. Agent général
+D. Courtier interne
+→ Réponse : B
+Q3
+Que doit faire un conseiller en cas de conflit d’intérêts ?
+A. Ne rien dire
+B. Choisir le produit le plus rentable
+C. Informer le client et documenter
+D. Laisser le client deviner
+→ Réponse : C
+Q4
+La documentation sert principalement à :
+A. Justifier les commissions
+B. Prouver la conformité du conseil
+C. Remplacer l’analyse des besoins
+D. Éviter les explications
+→ Réponse : B
+🟦 MODULE GÉNÉRAL — COUCHE 7
+Examen blanc (niveau AFA)
+Q1 — Analyse des besoins
+Un client demande une assurance sans préciser ses attentes. Que doit faire le
+conseiller ?
+→ Identifier les besoins, poser des questions, analyser la situation.
+Q2 — Transparence
+Un produit comporte une exclusion majeure. Que doit faire le conseiller ?
+→ L’expliquer clairement et vérifier la compréhension.
+Q3 — Intermédiaire lié
+Que doit annoncer un intermédiaire lié avant le conseil ?
+→ Qu’il représente un seul assureur.
+Q4 — Documentation
+Pourquoi la documentation est-elle essentielle ?
+→ Pour prouver la conformité et retracer le conseil.
+🟩 MODULE GÉNÉRAL — COUCHE 8
+Plan d’étude
+Objectif : maîtriser les bases réglementaires et professionnelles
+Semaine 1 :
+• Cadre légal transversal
+• FINMA & obligations
+Semaine 2 :
+• Processus de conseil
+• Documentation
+• Conflits d’intérêts
+Semaine 3 :
+• Types d’intermédiaires
+• Responsabilités
+Révision 7 jours :
+• Résumés + quiz
+• Cas pratiques
+• Schémas logiques
+Révision 48h :
+• Flashcards
+• Quiz rapides
+• Résumé express
+🟨 MODULE GÉNÉRAL — COUCHE 9
+Parcours adaptatif
+Si l’utilisateur échoue sur :
+• Transparence → renvoi vers explications + cas pratiques
+• Conflits d’intérêts → renvoi vers schémas + quiz ciblés
+• Processus de conseil → renvoi vers schéma + résumé
+• Types d’intermédiaires → renvoi vers glossaire + quiz
+🟧 MODULE GÉNÉRAL — COUCHE 10
+Base de données (structure textuelle)
+Module
+• id: general
+• nom: Module Général
+Thèmes
+• Cadre légal transversal
+• FINMA & supervision
+• Processus de conseil
+• Types d’intermédiaires
+• Responsabilités & éthique
+Items pédagogiques
+Pour chaque thème :
+• résumé
+• explications
+• schémas
+• glossaire
+• cas pratiques
+• quiz
+• examen blanc
+• plan de révision
+• parcours adaptatif

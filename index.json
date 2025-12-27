@@ -1,0 +1,21 @@
+[
+  { "path": "../corpus_final/03_index/INDEX GLOBAL.txt" },
+
+  { "path": "../corpus_final/01_modules/MODULE 3 VIE.txt" },
+  { "path": "../corpus_final/01_modules/MODULE 2 NON -VIE.txt" },
+  { "path": "../corpus_final/01_modules/MODULE 5 AFA.txt" },
+  { "path": "../corpus_final/01_modules/MODULE 4 MALADIE COMPLÉMENTAIRE.txt" },
+  { "path": "../corpus_final/01_modules/MODULE 1 GÉNÉRAL.txt" },
+
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 7 LOIS SANTÉ & ACCIDENTS.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 8 LOIS DE CONDUITE & CONFORMITÉ.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 10 RISQUES & BESOINS CLIENTS.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 12 ERREURS FRÉQUENTES.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 9 COORDINATION DES ASSURANCES.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE AFA OBLIGATIONS CONSEILLER.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 13 CAS PRATIQUES TRANSVERSAUX.txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 14 EXAMEN BLANC GLOBAL (AFA).txt" },
+  { "path": "../corpus_final/02_super_sources/SUPER SOURCE 11 EXCLUSIONS & LIMITES.txt" }
+]
+
+

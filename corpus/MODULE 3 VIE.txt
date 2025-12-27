@@ -1,0 +1,180 @@
+﻿🟦 MODULE VIE — COUCHE 1
+Résumé fidèle (synthèse structurée)
+Le module Vie couvre les assurances liées à la prévoyance, à la protection financière en 
+cas de décès ou d’invalidité, et à la constitution d’un capital ou d’une rente. Il inclut les 
+systèmes AVS/AI, la prévoyance professionnelle LPP, le 3e pilier (3a et 3b) ainsi que les 
+produits d’assurance vie (risque pur, épargne, mixte, rentes).
+L’objectif est de comprendre les prestations, les conditions, les limites, les interactions 
+entre les piliers, la fiscalité, les risques couverts et les besoins typiques des clients. Ce 
+module permet au conseiller d’accompagner les clients dans la planification financière 
+et la protection de leur famille.
+🟩 MODULE VIE — COUCHE 2
+Explications pédagogiques (version vulgarisée)
+Le module Vie explique comment les personnes sont protégées financièrement en cas 
+de décès, d’invalidité ou pour la retraite.
+• AVS/AI : la base obligatoire pour tous, qui verse des rentes vieillesse, survivants et 
+invalidité.
+• LPP : la prévoyance professionnelle pour les salariés, qui complète l’AVS/AI.
+• 3e pilier : la prévoyance individuelle, volontaire, pour compléter les deux premiers 
+piliers.
+• Assurances vie : produits permettant de protéger la famille, d’épargner ou de garantir 
+un revenu futur.
+En résumé :
+👉 Le module Vie enseigne comment sécuriser l’avenir financier d’un client et de sa 
+famille.
+🟨 MODULE VIE — COUCHE 3
+Schémas logiques (arborescences textuelles)
+1. Les trois piliers
+1. Pilier 1 : AVS/AI
+2. Pilier 2 : LPP
+3. Pilier 3 : 3a / 3b
+2. Produits vie
+• Risque pur
+• Décès
+• Invalidité
+• Épargne
+• Capital garanti
+• Taux technique
+• Mixte
+• Risque + épargne
+• Rentes
+• Rente viagère
+• Rente temporaire
+3. Besoins typiques
+• Famille → protection décès
+• Indépendant → prévoyance 3a/3b
+• Salarié → coordination AVS/AI + LPP
+• Retraité → rente ou capital
+4. Coordination AVS/AI – LPP
+• Invalidité → AVS/AI + LPP
+• Décès → AVS survivants + LPP survivants
+• Vieillesse → AVS + LPP
+🟧 MODULE VIE — COUCHE 4
+Glossaire (définitions reformulées)
+AVS
+Assurance vieillesse et survivants, base obligatoire pour tous.
+AI
+Assurance invalidité, qui verse des prestations en cas d’incapacité durable.
+LPP
+Prévoyance professionnelle obligatoire pour les salariés.
+3e pilier 3a
+Prévoyance individuelle liée, avec avantages fiscaux.
+3e pilier 3b
+Prévoyance individuelle libre, plus flexible mais sans avantages fiscaux.
+Assurance risque pur
+Produit couvrant uniquement décès ou invalidité, sans épargne.
+Assurance mixte
+Produit combinant protection et épargne.
+Rente viagère
+Revenu garanti à vie.
+🟫 MODULE VIE — COUCHE 5
+Cas pratiques (situations réalistes)
+Cas 1 — Protection de famille
+Un parent souhaite garantir un capital à ses enfants en cas de décès.
+→ Assurance risque pur décès.
+Cas 2 — Indépendant
+Un indépendant n’a pas de LPP.
+→ 3e pilier 3a recommandé pour combler la lacune.
+Cas 3 — Invalidité
+Un salarié devient invalide.
+→ AVS/AI + LPP interviennent selon le degré d’invalidité.
+Cas 4 — Retraite
+Un client hésite entre rente et capital.
+→ Analyse des besoins : stabilité vs flexibilité.
+Cas 5 — Épargne sécurisée
+Un client veut épargner avec un capital garanti.
+→ Assurance épargne avec taux technique.
+🟪 MODULE VIE — COUCHE 6
+Quiz (questions originales)
+Q1
+Le 3e pilier 3a est :
+A. Libre
+B. Lié avec avantages fiscaux
+C. Obligatoire
+D. Réservé aux retraités
+→ Réponse : B
+Q2
+L’assurance risque pur couvre :
+A. L’épargne
+B. Le décès ou l’invalidité
+C. Les bagages
+D. Les soins médicaux
+→ Réponse : B
+Q3
+La rente viagère garantit :
+A. Un capital unique
+B. Un revenu à vie
+C. Une couverture maladie
+D. Une protection RC
+→ Réponse : B
+Q4
+La LPP concerne :
+A. Les indépendants
+B. Les salariés
+C. Les retraités uniquement
+D. Les enfants
+→ Réponse : B
+🟦 MODULE VIE — COUCHE 7
+Examen blanc (niveau AFA)
+Q1 — AVS/AI
+Un client devient invalide à 60 %.
+→ AVS/AI + LPP versent des prestations proportionnelles.
+Q2 — 3e pilier
+Un client veut réduire ses impôts.
+→ 3a recommandé.
+Q3 — Assurance vie
+Un client veut protéger sa famille sans épargner.
+→ Risque pur.
+Q4 — Retraite
+Un client veut un revenu stable à vie.
+→ Rente viagère.
+Q5 — Coordination
+Un décès entraîne :
+→ Prestations AVS survivants + LPP survivants.
+🟩 MODULE VIE — COUCHE 8
+Plan d’étude
+Semaine 1 :
+• AVS/AI
+• LPP
+Semaine 2 :
+• 3e pilier
+• Produits vie
+Semaine 3 :
+• Coordination des piliers
+• Cas pratiques
+Révision 7 jours :
+• Quiz + schémas
+• Résumés
+Révision 48h :
+• Flashcards
+• Résumé express
+🟨 MODULE VIE — COUCHE 9
+Parcours adaptatif
+Si l’utilisateur échoue sur :
+• 3e pilier → renvoi vers explications + quiz
+• Produits vie → renvoi vers schémas + cas pratiques
+• AVS/AI → renvoi vers résumé + schéma
+• LPP → renvoi vers cas pratiques + quiz
+🟧 MODULE VIE — COUCHE 10
+Base de données (structure textuelle)
+Module
+• id: vie
+• nom: Module Vie
+Thèmes
+• AVS/AI
+• LPP
+• 3e pilier (3a / 3b)
+• Produits vie
+• Coordination des piliers
+Items pédagogiques
+Pour chaque thème :
+• résumé
+• explications
+• schémas
+• glossaire
+• cas pratiques
+• quiz
+• examen blanc
+• plan de révision
+• parcours adaptatif
+

@@ -1,0 +1,113 @@
+﻿🟦 SUPER-SOURCE : LOIS VIE & PRÉVOYANCE
+Contient : AVS/AI – LPP – OPP2 – OPP3
+Pilier 1 + Pilier 2 + Pilier 3a
+=========================================
+🟦 AVS/AI
+=========================================
+Résumé fidèle
+L’AVS/AI constitue le 1er pilier de la prévoyance suisse. Elle garantit un minimum vital en 
+cas de vieillesse, d’invalidité ou de décès. Elle définit les cotisations, les rentes 
+vieillesse, invalidité et survivants, les degrés d’invalidité, les mesures de réadaptation et 
+la coordination avec la LPP et la LAA.
+Explications pédagogiques
+L’AVS/AI est la base de la sécurité sociale.
+• AVS : retraite + survivants
+• AI : réadaptation + rente d’invalidité
+Tout le monde cotise. Les rentes couvrent le minimum vital.
+Schémas
+• Prestations AVS : vieillesse, survivants
+• Prestations AI : réadaptation, invalidité
+• Degrés d’invalidité : 40–49 % quart, 50–59 % demi, 60–69 % trois-quarts, ≥70 % entière
+• Coordination : AVS/AI ↔ LPP ↔ LAA
+Glossaire
+Rente vieillesse, rente survivants, invalidité, réadaptation, cotisations, degré d’invalidité.
+Cas pratiques
+Invalidité 55 %, décès, lacunes de cotisation, réadaptation, retraite.
+Quiz
+4 questions (invalidité, survivants, cotisations, objectif AVS).
+Examen blanc
+5 questions (invalidité, survivants, retraite, coordination, réadaptation).
+=========================================
+🟦 LPP
+=========================================
+Résumé fidèle
+La LPP constitue le 2e pilier. Elle vise à maintenir le niveau de vie après la retraite et 
+protège contre l’invalidité et le décès. Elle définit les prestations minimales, les 
+conditions d’affiliation, les cotisations, les rentes vieillesse, invalidité et survivants, ainsi 
+que la coordination avec l’AVS/AI et la LAA.
+Explications pédagogiques
+La LPP complète l’AVS/AI.
+• Salariés assurés dès un seuil
+• Cotisations employeur + employé
+• Capital converti en rente
+• Régime obligatoire + surobligatoire
+Schémas
+• Structure : obligatoire / surobligatoire
+• Prestations : vieillesse, invalidité, survivants
+• Financement : cotisations, intérêts, taux de conversion
+• Coordination : AVS/AI ↔ LPP ↔ LAA
+Glossaire
+Salaire coordonné, taux de conversion, bonifications, cotisations, rente survivants.
+Cas pratiques
+Affiliation, invalidité, décès, retraite, surobligatoire.
+Quiz
+4 questions (affiliation, taux de conversion, surobligatoire, prestations).
+Examen blanc
+5 questions (affiliation, invalidité, survivants, capital/rente, coordination).
+=========================================
+🟦 OPP2
+=========================================
+Résumé fidèle
+L’OPP2 précise les règles techniques de la LPP : salaire coordonné, bonifications de 
+vieillesse, taux d’intérêt minimal, taux de conversion minimal, rachats, EPL, 
+coordination avec AVS/AI et LAA.
+Explications pédagogiques
+L’OPP2 est le mode d’emploi technique du 2e pilier :
+• combien du salaire est assuré
+• comment les cotisations vieillesse augmentent
+• comment le capital devient une rente
+• quand on peut retirer le capital
+Schémas
+• Paramètres : salaire coordonné, bonifications, taux d’intérêt, taux de conversion
+• Prestations : vieillesse, invalidité, survivants
+• Rachats
+• EPL
+• Coordination
+Glossaire
+Salaire coordonné, bonifications, taux de conversion, taux d’intérêt minimal, rachat, 
+EPL.
+Cas pratiques
+Salaire coordonné, rachat, EPL, départ à l’étranger, taux de conversion.
+Quiz
+4 questions (salaire coordonné, bonifications, taux de conversion, EPL).
+Examen blanc
+5 questions (salaire coordonné, rachat, EPL, taux de conversion, coordination).
+=========================================
+🟦 OPP3
+=========================================
+Résumé fidèle
+L’OPP3 encadre la prévoyance liée (pilier 3a). Elle définit les conditions de cotisation, les 
+plafonds, les cas de retrait anticipé, les bénéficiaires en cas de décès, les règles de 
+transfert et la coordination avec les autres piliers.
+Explications pédagogiques
+Le pilier 3a est une épargne privée avec avantages fiscaux.
+L’OPP3 précise :
+• qui peut cotiser
+• combien
+• quand on peut retirer
+• qui reçoit en cas de décès
+• comment transférer les fonds
+Schémas
+• Cotisations : salarié / indépendant
+• Retraits autorisés : retraite, EPL, indépendance, départ, invalidité, décès
+• Bénéficiaires : conjoint → enfants → partenaire → héritiers
+• Coordination : 3a ↔ LPP ↔ AVS/AI
+Glossaire
+Prévoyance liée, plafond, EPL, retrait anticipé, bénéficiaires, indépendant.
+Cas pratiques
+Achat immobilier, indépendance, départ à l’étranger, décès, optimisation fiscale.
+Quiz
+4 questions (cotisation, EPL, bénéficiaires, indépendants).
+Examen blanc
+5 questions (EPL, indépendants, décès, départ, coordination).
+

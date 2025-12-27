@@ -1,0 +1,182 @@
+﻿🟦 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 1
+Résumé fidèle (synthèse structurée)
+Le module Maladie Complémentaire couvre les assurances liées à la santé, en
+distinguant clairement l’assurance obligatoire des soins (LAMal) et les assurances
+complémentaires (LCA). Il explique les prestations de base, les franchises, les
+quote-parts, les modèles alternatifs, les prestations complémentaires (hospitalisation,
+dentaire, médecines alternatives, médicaments, optique), ainsi que les exclusions, les
+limites et la coordination entre LAMal et LCA.
+L’objectif est de permettre au conseiller d’expliquer les couvertures, d’identifier les
+besoins du client, d’éviter les lacunes et de clarifier les différences entre prestations
+obligatoires et prestations facultatives.
+🟩 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 2
+Explications pédagogiques (version vulgarisée)
+Le module Maladie Complémentaire explique comment les personnes sont couvertes
+pour leurs soins médicaux, et comment elles peuvent améliorer leur couverture.
+• LAMal : l’assurance de base obligatoire, identique pour tout le monde, qui couvre les
+soins essentiels.
+• Franchise : montant annuel que le client paie avant que l’assurance intervienne.
+• Quote-part : pourcentage des coûts que le client paie après la franchise.
+• Modèles alternatifs : médecin de famille, HMO, télémédecine, etc.
+• Complémentaires LCA : prestations supplémentaires comme l’hospitalisation en
+division privée, les médecines alternatives, les lunettes, les soins dentaires, etc.
+• Coordination : la LAMal intervient en premier, puis les complémentaires selon les
+conditions.
+En résumé :
+👉 Le module Maladie Complémentaire enseigne comment optimiser la couverture
+santé d’un client selon ses besoins.
+🟨 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 3
+Schémas logiques (arborescences textuelles)
+1. LAMal (base obligatoire)
+• Prestations essentielles
+• Franchise
+• Quote-part
+• Modèles alternatifs
+• Libre choix du médecin (selon modèle)
+2. Complémentaires LCA
+• Hospitalisation
+• Division commune
+• Demi-privée
+• Privée
+• Dentaire
+• Médecines alternatives
+• Lunettes / optique
+• Médicaments non remboursés par LAMal
+3. Coordination LAMal – LCA
+1. LAMal intervient en premier
+2. Complémentaire couvre selon conditions
+3. Exclusions possibles
+4. Limites de remboursement
+4. Besoins typiques
+• Famille → dentaire, optique
+• Personne active → hospitalisation demi-privée
+• Senior → médecines alternatives, médicaments
+• Étudiant → modèles alternatifs pour réduire les primes
+🟧 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 4
+Glossaire (définitions reformulées)
+LAMal
+Assurance obligatoire couvrant les soins essentiels.
+Franchise
+Montant annuel que l’assuré paie avant que l’assurance intervienne.
+Quote-part
+Pourcentage des coûts restant à charge après la franchise.
+Modèle médecin de famille
+Le client consulte d’abord son médecin référent.
+Modèle HMO
+Consultation dans un centre de santé partenaire.
+Complémentaire LCA
+Assurance facultative couvrant des prestations supplémentaires.
+Division privée
+Chambre individuelle avec libre choix du médecin.
+Médecines alternatives
+Prestations comme acupuncture, ostéopathie, etc.
+🟫 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 5
+Cas pratiques (situations réalistes)
+Cas 1 — Franchise élevée
+Un client jeune et en bonne santé veut réduire sa prime.
+→ Franchise élevée + modèle alternatif.
+Cas 2 — Hospitalisation
+Un client souhaite une chambre individuelle.
+→ Complémentaire hospitalisation privée.
+Cas 3 — Dentaire
+Un enfant a besoin d’un traitement orthodontique.
+→ Complémentaire dentaire.
+Cas 4 — Médicaments
+Un médicament n’est pas remboursé par LAMal.
+→ Complémentaire médicaments.
+Cas 5 — Médecines alternatives
+Un client consulte régulièrement un ostéopathe.
+→ Complémentaire médecines alternatives.
+🟪 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 6
+Quiz (questions originales)
+Q1
+La LAMal couvre :
+A. Les lunettes
+B. Les soins essentiels
+C. Les chambres privées
+D. Les soins dentaires
+→ Réponse : B
+Q2
+La franchise est :
+A. Une réduction de prime
+B. Le montant payé avant l’assurance
+C. Une prestation complémentaire
+D. Une taxe administrative
+→ Réponse : B
+Q3
+La division privée permet :
+A. Une chambre commune
+B. Une chambre individuelle
+C. Une réduction de franchise
+D. Un accès gratuit aux médicaments
+→ Réponse : B
+Q4
+Les médecines alternatives sont couvertes par :
+A. LAMal
+B. Complémentaires LCA
+C. LAA
+D. AVS
+→ Réponse : B
+🟦 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 7
+Examen blanc (niveau AFA)
+Q1 — LAMal
+Un client choisit une franchise élevée.
+→ Il paie moins de prime mais plus en cas de soins.
+Q2 — Complémentaire
+Un client veut choisir librement son médecin à l’hôpital.
+→ Complémentaire hospitalisation privée.
+Q3 — Coordination
+Un médicament n’est pas remboursé par LAMal.
+→ Complémentaire médicaments peut intervenir.
+Q4 — Modèles alternatifs
+Un client doit toujours consulter son médecin référent.
+→ Modèle médecin de famille.
+Q5 — Dentaire
+Un traitement orthodontique est nécessaire.
+→ Complémentaire dentaire.
+🟩 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 8
+Plan d’étude
+Semaine 1 :
+• LAMal
+• Franchise / quote-part
+Semaine 2 :
+• Complémentaires hospitalisation
+• Complémentaires dentaire / optique
+Semaine 3 :
+• Médecines alternatives
+• Coordination LAMal – LCA
+Révision 7 jours :
+• Quiz + cas pratiques
+• Schémas logiques
+Révision 48h :
+• Flashcards
+• Résumé express
+🟨 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 9
+Parcours adaptatif
+Si l’utilisateur échoue sur :
+• LAMal → renvoi vers résumé + schéma
+• Complémentaires → renvoi vers explications + cas pratiques
+• Hospitalisation → renvoi vers schémas + quiz
+• Coordination → renvoi vers schéma + cas pratiques
+🟧 MODULE MALADIE COMPLÉMENTAIRE — COUCHE 10
+Base de données (structure textuelle)
+Module
+• id: maladie
+• nom: Module Maladie Complémentaire
+Thèmes
+• LAMal
+• Franchise / quote-part
+• Modèles alternatifs
+• Complémentaires LCA
+• Coordination LAMal – LCA
+Items pédagogiques
+Pour chaque thème :
+• résumé
+• explications
+• schémas
+• glossaire
+• cas pratiques
+• quiz
+• examen blanc
+• plan de révision
+• parcours adaptatif

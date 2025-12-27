@@ -1,0 +1,130 @@
+﻿🟦 SUPER-SOURCE 14 EXAMEN BLANC GLOBAL (AFA)
+Contient : 60 questions couvrant Vie + Non-Vie + Santé + LAA + LPP + AVS/AI + 3a/3b +
+conformité + coordination
+Objectif : simuler un examen complet AFA
+🟦 SECTION 1 — VIE & PRÉVOYANCE (AVS/AI – LPP – OPP2 – OPP3)
+Q1. À partir de quel taux l’AI verse une rente?
+→ 40 %
+Q2. La LPP couvre-t-elle tout le salaire?
+→ Non, seulement le salaire coordonné.
+Q3. À quel âge commence la couverture vieillesse LPP?
+→ 24 ans.
+Q4. À quel âge commence la couverture invalidité LPP?
+→ 17 ans.
+Q5. Le 3a peut-il être retiré pour acheter une voiture?
+→ Non.
+Q6. Le 3a peut-il être retiré pour un achat immobilier?
+→ Oui (EPL).
+Q7. Un indépendant peut-il cotiser au 3a?
+→ Oui, avec plafond plus élevé.
+Q8. Une invalidité de 35 % donne-t-elle droit à une rente AI?
+→ Non.
+Q9. Une invalidité de 60 % donne quelle rente AI?
+→ Trois-quarts.
+Q10. En cas de décès, qui est le premier bénéficiaire du 3a?
+→ Conjoint / partenaire enregistré.
+🟩 SECTION 2 — SANTÉ (LAMal – LCA)
+Q11. La LAMal peut-elle refuser un assuré?
+→ Non.
+Q12. La LCA peut-elle refuser un assuré?
+→ Oui.
+Q13. La LAMal couvre-t-elle les soins dentaires?
+→ Non (sauf exceptions).
+Q14. La LAMal couvre-t-elle la chambre privée?
+→ Non.
+Q15. La complémentaire santé peut-elle appliquer des réserves?
+→ Oui.
+Q16. La maternité est-elle soumise à franchise?
+→ Non.
+Q17. Un médicament hors liste est-il couvert par la LAMal?
+→ Non.
+Q18. Une opération esthétique est-elle couverte par la LAMal?
+→ Non.
+Q19. Un étudiant est-il couvert par la LAA?
+→ Non.
+Q20. Un enfant est-il couvert par la LAA?
+→ Non.
+🟨 SECTION 3 — ACCIDENTS (LAA)
+Q21. La LAA couvre-t-elle les indépendants?
+→ Non (volontaire uniquement).
+Q22. La LAA couvre-t-elle les accidents non professionnels?
+→ Oui, si ≥ 8h/semaine.
+Q23. Un accident sur trajet indirect est-il couvert par la LAA?
+→ Pas forcément.
+Q24. La LAA couvre-t-elle les sports extrêmes?
+→ Peut réduire (entreprise téméraire).
+Q25. La LAA couvre-t-elle un retraité?
+→ Non.
+Q26. La LAA couvre-t-elle un employé <8h/semaine?
+→ AP uniquement.
+Q27. La LAA couvre-t-elle un accident à l’étranger?
+→ Oui.
+Q28. La LAA verse-t-elle une rente d’invalidité?
+→ Oui.
+Q29. La LAA verse-t-elle une indemnité pour atteinte à l’intégrité?
+→ Oui.
+Q30. La LAA couvre-t-elle les soins?
+→ Oui.
+🟧 SECTION 4 — NON-VIE (Ménage – RC – PJ – Véhicule)
+Q31. La RC couvre-t-elle les dommages au conjoint?
+→ Non.
+Q32. La RC couvre-t-elle les dommages professionnels?
+→ Non.
+Q33. Le ménage couvre-t-il l’usure?
+→ Non.
+Q34. Le ménage couvre-t-il un vélo non attaché?
+→ Selon contrat.
+Q35. La PJ privée couvre-t-elle un litige professionnel?
+→ Non.
+Q36. La RC véhicule couvre-t-elle les dommages au véhicule?
+→ Non (casco).
+Q37. La RC couvre-t-elle un objet prêté?
+→ Oui.
+Q38. La RC couvre-t-elle un chien dangereux?
+→ Selon canton.
+Q39. La casco couvre-t-elle les dommages causés par soi-même?
+→ Oui (selon contrat).
+Q40. La PJ couvre-t-elle les litiges antérieurs?
+→ Non.
+🟫 SECTION 5 — CONDUITE & CONFORMITÉ (LCA – LPD – LSFin – FINMA)
+Q41. L’obligation d’information doit-elle être donnée avant la signature?
+→ Oui.
+Q42. La documentation est-elle obligatoire?
+→ Oui.
+Q43. Les conflits d’intérêts doivent-ils être gérés?
+→ Oui.
+Q44. Peut-on collecter plus de données que nécessaire?
+→ Non (proportionnalité).
+Q45. Peut-on envoyer des données médicales par email non sécurisé?
+→ Non.
+Q46. La LSFin impose-t-elle la transparence des coûts?
+→ Oui.
+Q47. La LPD donne-t-elle un droit d’accès au client?
+→ Oui.
+Q48. La FINMA exige-t-elle la loyauté?
+→ Oui.
+Q49. La LCA impose-t-elle la bonne foi?
+→ Oui.
+Q50. La LPD impose-t-elle la sécurité des données?
+→ Oui.
+🟪 SECTION 6 — COORDINATION (transversal)
+Q51. Accident → quelle assurance couvre les soins?
+→ LAA.
+Q52. Maladie → quelle assurance couvre les soins?
+→ LAMal.
+Q53. Invalidité → quelles assurances versent une rente?
+→ AI + LPP.
+Q54. Décès → quelles assurances versent des prestations?
+→ AVS + LPP + Vie.
+Q55. Retraite → quelles assurances versent des prestations?
+→ AVS + LPP + 3a.
+Q56. Accident d’un indépendant → quelle assurance couvre?
+→ LAMal.
+Q57. Accident d’un enfant → quelle assurance couvre?
+→ LAMal.
+Q58. Accident <8h/semaine → ANP couvert?
+→ Non.
+Q59. Accident sport extrême → réduction possible?
+→ Oui.
+Q60. Accident trajet indirect → LAA couvre?
+→ Pas forcément.
